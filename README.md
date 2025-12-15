@@ -163,6 +163,11 @@ Then open the local URL (typically `http://localhost:8501`) in your browser.
 - Predefined animation/transition templates.  
 - One‑click deployment to GitHub Pages, Netlify, or Vercel.
 
+## Demo video of execution and result:
+
+https://github.com/user-attachments/assets/6c538c9f-3f9b-4b2a-a697-589752c5a4c8
+
+
 # Author
 
 Email: pruchita565@gmail.com
