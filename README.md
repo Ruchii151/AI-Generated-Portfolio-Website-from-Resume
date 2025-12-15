@@ -1,6 +1,3 @@
-# AI-Generated-Portfolio-Website-from-Resume
-This project turns any PDF/DOCX resume into a fully generated portfolio website with HTML, CSS, and JavaScript, viewable inside Streamlit and downloadable as a ZIP.
-
 # AI‑Generated Portfolio Website from Resume
 
 This project automatically converts a resume into a multi‑section personal portfolio website using LLMs and Streamlit. The app parses the uploaded resume, generates a structured website specification, and then produces production‑ready HTML, CSS, and JavaScript code that can be previewed and downloaded as a ZIP.
